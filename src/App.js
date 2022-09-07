@@ -79,8 +79,8 @@ function App() {
   },[selectedCountry])
 
   return (
-    <div className=" bg-white/90 w-full h-screen md:h-full text-black/80">
-      <div className="flex flex-col justify-start p-4 items-center w-full h-screen md:h-full bg-black/10">
+    <div className=" bg-white/60 w-full h-full text-black/80">
+      <div className="flex flex-col justify-start p-4 items-center w-full h-full bg-black/10">
         <h1 className="text-3xl uppercase tracking-[.12em] my-4 font-bold text-center md:text-5xl">
             C<RiVirusFill className="inline-block md:mb-2 text-red-900"/>vid-19 Tracker
         </h1>

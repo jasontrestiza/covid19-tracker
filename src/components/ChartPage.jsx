@@ -60,7 +60,7 @@ const ChartPage = ({data, selectedCountry}) => {
       );  
 
     return(
-        <div className="w-full h-full md:h-full p-4 md:w-[650px] m-auto">
+        <div className="w-full h-full md:h-full p-4 my-2 md:w-[650px]">
           <div className="w-full h-full md:h-full m-auto">
             {barChart}
           </div>
